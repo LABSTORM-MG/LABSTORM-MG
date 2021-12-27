@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @LABSTORM-MG
-- 👀 I’m interested in Minecraft Plugin Development
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Java development (especially Minecraft-Plugins and Discord-Bots)
+- 🌱 I’m currently learning advanced Java
 - 📫 Discord: LABSTORM#9019
